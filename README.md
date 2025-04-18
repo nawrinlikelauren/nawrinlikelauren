@@ -32,21 +32,9 @@
     
     Designed a system that allows users to load and manipulate records from a text file, demonstrating **scalability and the handling of large datasets** requiring adjustment.
 
-- _Finite State Automata Demonstration_ 🔁
-    
-    Collaborated on the development and implementation of a riddle game, demonstrating Finite State Automata (FSA) theory in game design.
-    
-    Applied **object-oriented programming (OOP)**, enhancing the game’s extensibility through use of inheritance, and polymorphism.
-
 - _The Campus Slate Newspaper_ 📰
 
     Developing and managing [www.TheCampusSlate.com](https://TheCampusSlate.com) associated with the publication of New York Institute of Technology Long Island campus’ student run newspaper, The Campus Slate (founded in 1966), while **digitizing** **current and past publications**.
-
-- _Zoho Inventory_ 📦
-
-    Analyzed and documented the Zoho Inventory system using **Agile methodology**. 
-    
-    Created user stories, data flow diagrams, use-case and state diagrams, architecture design, data model, and UI layout to describe its features and functionality in detail.
     
     and [_more_!](https://nawrinlikelauren.github.io)
 
