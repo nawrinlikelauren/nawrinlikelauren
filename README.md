@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,typescript,react,nodejs,github,git,docker,postgresql" />
 </div>
 
-## Contact Me!👩🏻‍💻
+### Contact Me!👩🏻‍💻
 - Email: nawrinmsikder@gmail.com
 - LinkedIn: https://www.linkedin.com/in/nawrinsikder
 - Personal Website: https://nawrinlikelauren.github.io
