@@ -3,7 +3,7 @@
 ### _"Hello, World!"_
 ## My name is Nawrin (like Lauren)👋
 
-### I am a Computer Science graduate student at New York Institute of Technology.
+### I am a Computer Science graduate student at New York Institute of Technology (NYIT).
 
 ---
 
