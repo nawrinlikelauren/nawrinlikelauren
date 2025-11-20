@@ -14,15 +14,15 @@
     
     Building a **full-stack** Spotify clone built with features such as music playback, volume control, and live activity.
     
-    The project includes clean UI, analytics, and an updatable dashboard.
+    The project will include a clean UI, analytics, and an updatable dashboard.
 
 
 ### I have previously built...
 - _FSM Batman-Riddler Game_ 🦇
     
-    Built an interactive riddle game modeled as automata theory in Java where each riddle and progression in the game represents a state. 
+    Built an interactive riddle game modeled as automata theory in Java where each riddle as well as progression in the game represents a state. 
     
-    Implemented state transitions based on the users input showcasing functional gameplay. 
+    Implemented state transitions based on the users input, showcasing functional gameplay. 
     
 
 - _B+ Tree Parts Catalog_ 📊
