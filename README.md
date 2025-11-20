@@ -10,31 +10,30 @@
 
 ### #BuildinPublic
 ### I am currently building...
-- Stock Market Tracker 📈
+- _Spotify Clone_ 🎻
     
-    A stock market web app that shows **real-time prices, historical trends, and financial news**.
+    Building a **full-stack** Spotify clone built with features such as music playback, volume control, and live activity.
     
-    Users are able to track stocks, save favorites, view performance history, and toggle notification alerts.
-    
-    Future updates include news integration, and portfolio tracking.
+    The project includes clean UI, analytics, and an updatable dashboard.
 
 
 ### I have previously built...
-- _Spotify Clone_ 🎻
+- _FSM Batman-Riddler Game_ 🦇
     
-    Built a **full-stack** Spotify clone built with features such as music playback, volume control, and live activity.
+    Built an interactive riddle game modeled as automata theory in Java where each riddle and progression in the game represents a state. 
     
-    The project includes clean UI, analytics, and an updatable dashboard.
+    Implemented state transitions based on the users input showcasing functional gameplay. 
+    
 
 - _B+ Tree Parts Catalog_ 📊
 
     Collaborated on a B+ Tree-based parts catalog consisting of search, insert, update, delete, and retrieval functions.
     
-    Designed a system that allows users to load and manipulate records from a text file, demonstrating **scalability and the handling of large datasets** requiring adjustment.
+    Designed a system that allows users to load and manipulate records from a text file, demonstrating **scalable data handling** for large datasets.
 
 - _The Campus Slate Newspaper_ 📰
 
-    Developing and managing [www.TheCampusSlate.com](https://TheCampusSlate.com) associated with the publication of New York Institute of Technology Long Island campus’ student run newspaper, The Campus Slate (founded in 1966), while **digitizing** **current and past publications**.
+    Developed the official web publication site of New York Institute of Technology's student-run newspaper The Campus Slate (est. 1966), while **digitizing** **both current and archived publications**.
     
     and [_more_!](https://nawrinlikelauren.github.io)
 
